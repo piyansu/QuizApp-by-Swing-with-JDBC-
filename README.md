@@ -25,13 +25,13 @@ A simple quiz application developed using Java Swing for the graphical interface
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://i.postimg.cc/FRRj2Nv6/image.png" alt="project-screenshot" width="4000" height="500/">
+<img src="https://i.postimg.cc/FRRj2Nv6/image.png" alt="project-screenshot" width="4000" height="450/">
 
 <img src="https://i.postimg.cc/Rhn9p6DZ/image.png" alt="project-screenshot" width="4000" height="650/">
 
 <img src="https://i.postimg.cc/dQ74Nm49/image.png" alt="project-screenshot" width="4000" height="500/">
 
-<img src="https://i.postimg.cc/nLr386vC/image.png" alt="project-screenshot" width="4000" height="500/">
+<img src="https://i.postimg.cc/8PxxNdp1/image.png" alt="project-screenshot" width="4000" height="500/">
 
 <h3>Accessing Connected Database from SQL Workbench</h3>
 
