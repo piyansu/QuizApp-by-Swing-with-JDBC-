@@ -27,7 +27,7 @@ A simple quiz application developed using Java Swing for the graphical interface
 
 <img src="https://i.postimg.cc/FRRj2Nv6/image.png" alt="project-screenshot" width="4000" height="500/">
 
-<img src="https://i.postimg.cc/Rhn9p6DZ/image.png" alt="project-screenshot" width="4000" height="750/">
+<img src="https://i.postimg.cc/Rhn9p6DZ/image.png" alt="project-screenshot" width="4000" height="650/">
 
 <img src="https://i.postimg.cc/dQ74Nm49/image.png" alt="project-screenshot" width="4000" height="500/">
 
